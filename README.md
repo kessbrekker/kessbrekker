@@ -56,7 +56,7 @@
 
 ###
 
-<img align="left" height="150" src="https://github.com/kessbrekker/kessbrekker/blob/main/sc.gif?raw=true"  />
+<img align="left" height="100" src="https://github.com/kessbrekker/kessbrekker/blob/main/sc.gif?raw=true"  />
 
 ###
 
