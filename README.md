@@ -56,13 +56,13 @@
 
 ###
 
-<img align="left" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWI4N3F5b3lsZWFkMW0zOXhpazMzMmk3NzZqYnlnd2E3Y21oMm9yMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0CHy3hKrWQY2TWaaBq/giphy.gif"  />
+<img align="left" height="150" src="https://github.com/kessbrekker/kessbrekker/blob/main/sc.gif?raw=true"  />
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kessbrekker&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="145" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kessbrekker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="145" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=kessbrekker&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kessbrekker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
