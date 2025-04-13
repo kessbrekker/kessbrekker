@@ -56,9 +56,6 @@
 
 ###
 
-<img align="left" height="100" src="https://github.com/kessbrekker/kessbrekker/blob/main/sc.gif?raw=true"  />
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kessbrekker&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="145" alt="streak graph"  />
