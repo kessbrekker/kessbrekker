@@ -62,7 +62,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kessbrekker/kessbrekker/output/snake.svg" alt="Snake animation" />
+<!---<img src="https://raw.githubusercontent.com/kessbrekker/kessbrekker/output/snake.svg" alt="Snake animation" />--->
 
 ###
 
