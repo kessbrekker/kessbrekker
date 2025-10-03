@@ -34,7 +34,7 @@
   <a href="https://www.instagram.com/schumisaid" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=e12d72&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
   </a>
-  <a href="https://x.com/SaidBasara" target="_blank">
+  <a href="https://x.com/kessbrekker" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"/>
   </a>
   <a href="https://discord.gg/wSYFNjU79Y" target="_blank">
