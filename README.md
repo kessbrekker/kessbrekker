@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <img src="" height="30" alt="Kess"  />
+  <img src="assets/kess.png" height="30" alt="Kess"  />
 </div>
 
 ###
