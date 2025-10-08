@@ -25,6 +25,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" height="30" alt="discordjs logo"  />
 </div>
 
+<div align="center">
+  <img src="" height="30" alt="Kess"  />
+</div>
+
 ###
 
 <div align="center">
