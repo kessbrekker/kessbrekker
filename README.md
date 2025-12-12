@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">print("Hello My Beauty")</h2>
+<h2 align="center">print("ks7")</h2>
 
 ###
 
