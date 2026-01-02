@@ -62,3 +62,6 @@ $$\Large \color{#8fd5e9}{\text{console}}\color{#abb2bf}{.}\color{#e5c07b}{\text{
   <img src="https://github-profile-trophy.vercel.app?username=kessbrekker&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 --->
+
+###
+<p align="center"><sub>2026 &copy; kessbrekker of ks7</sub></p>
