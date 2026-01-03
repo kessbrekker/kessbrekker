@@ -1,5 +1,9 @@
 <br clear="both">
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <h2 align="center">
 $$\Large \color{#8fd5e9}{\text{console}}\color{#abb2bf}{.}\color{#e5c07b}{\text{log}}\color{#ffd700}{(}\color{#d19a66}{`}\color{#c678dd}{\$\{}\color{#8fd5e9}{\text{github.name}}\color{#c678dd}{\}}\color{#d19a66}{\text{ of ks7}}\color{#d19a66}{`}\color{#ffd700}{)}$$
 </h2>
@@ -43,3 +47,8 @@ $$\Large \color{#8fd5e9}{\text{console}}\color{#abb2bf}{.}\color{#e5c07b}{\text{
 ###
 
 <p align="center"><sub>2026 &copy; kessbrekker of ks7</sub></p>
+<br>
+<br>
+<br>
+<br>
+<br>
