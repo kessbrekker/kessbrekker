@@ -82,11 +82,11 @@ $$\Large \color{#8fd5e9}{\text{console}}\color{#abb2bf}{.}\color{#e5c07b}{\text{
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="50" alt="linux logo"  />
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge" height="50" alt="fedora logo"  />
-  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="50" alt="apple logo"  />
-  <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=black&style=for-the-badge" height="50" alt="firefox logo"  />
-  <img src="https://img.shields.io/badge/Red Hat-EE0000?logo=redhat&logoColor=white&style=for-the-badge" height="50" alt="redhat logo"  />
+  <img src="https://img.shields.io/badge/Red Hat-EE0000?logo=redhat&logoColor=white&style=for-the-badge" height="100" alt="redhat logo"  />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge" height="100" alt="fedora logo"  />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="100" alt="linux logo"  />  
+  <img src="https://img.shields.io/badge/openSUSE-73BA25?logo=opensuse&logoColor=black&style=for-the-badge" height="100" alt="opensuse logo"  />
+  <img src="https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=white&style=for-the-badge" height="100" alt="gentoo logo"  />
 </div>
 
 ###
