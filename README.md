@@ -45,10 +45,9 @@ $$\Large \color{#8fd5e9}{\text{console}}\color{#abb2bf}{.}\color{#e5c07b}{\text{
 </div>
 
 ###
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <p align="center"><sub>2026 &copy; kessbrekker of ks7</sub></p>
-<br>
-<br>
-<br>
-<br>
-<br>
