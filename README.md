@@ -52,4 +52,6 @@ $$\Large \color{#8fd5e9}{\text{console}}\color{#abb2bf}{.}\color{#e5c07b}{\text{
 <br>
 <br>
 <br>
-<p align="center"><sub>2026 &copy; kessbrekker of ks7</sub></p>
+<p align="center">
+  <sub><b>Ks7</b> &copy; 2026 Kess Inc.</sub>
+</p>
