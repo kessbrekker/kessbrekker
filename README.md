@@ -47,5 +47,5 @@ $$\Large \color{#8fd5e9}{\text{console}}\color{#abb2bf}{.}\color{#e5c07b}{\text{
 <br>
 <br>
 <p align="center">
-  <sub><b>Ks7</b> &copy; 2026 Kess Inc.</sub>
+  <sub><b>K.</b> &copy; 2026 Kess, Inc.</sub>
 </p>
